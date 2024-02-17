@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\bin\Debug\snakeWF.exe.config
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\bin\Debug\snakeWF.exe
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\bin\Debug\snakeWF.pdb
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\obj\Debug\snakeWF.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\obj\Debug\snakeWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\obj\Debug\snakeWF.Form1.resources
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\obj\Debug\snakeWF.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\obj\Debug\snakeWF.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\obj\Debug\snakeWF.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\obj\Debug\snakeWF.exe
+C:\Users\Aleksandr\source\repos\snakeWF\snakeWF\obj\Debug\snakeWF.pdb
